@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**kundan594/kundan594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Kundan 👋  
 
-Here are some ideas to get you started:
+💻 **Senior Angular & Node.js Developer** | 🚀 Team Lead | 🌐 Cloud Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- Frontend: Angular, RxJS, TypeScript, HTML, CSS, PrimeNG  
+- Backend: Node.js, Express, MongoDB  
+- DevOps: AWS, Jenkins, Docker, Kubernetes, Terraform  
+- Monitoring: Dynatrace, Microsoft Sentinel  
+
+### 📌 About Me
+- 🌱 Currently learning **Cloud DevOps (Jenkins, Ansible, Terraform)**  
+- 🔍 Exploring **Micro Frontend Architectures in Angular**  
+- ✍️ Sharing insights on **clean code & system design**  
+
+
